@@ -1,0 +1,8 @@
+{
+  "name": "Remove Quick Toggles",
+  "description": "Removes Dark Style, Power Mode, and Airplane Mode from Quick Settings",
+  "uuid": "remove-quick-toggles@rhjihan.github.io",
+  "shell-version": ["48"],
+  "version": 1
+}
+
